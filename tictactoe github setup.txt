@@ -2,7 +2,7 @@ Quick setup — if you’ve done this kind of thing before
 or	
 HTTPS
 SSH
-https://github.com/AdamKhreis/TicTacToe-Java.git
+
 Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
 
 March 16, 2020
@@ -10,6 +10,7 @@ March 16, 2020
 Jaime's tutorial on how to use github - Thank you!
 
 1. step1 
+
 …or create a new repository on the command line
 echo "# TicTacToe-Java" >> README.md
 git init
